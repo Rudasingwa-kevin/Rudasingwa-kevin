@@ -1,68 +1,71 @@
 <h1 align="center">Hi 👋, I'm Kevin Ishimwe</h1>
-<h3 align="center">Software Engineer | Building Modern Web Solutions</h3>
+<h3 align="center">Software Engineer | Full-Stack Developer | AI Enthusiast</h3>
 
 <p align="center">
-  <a href="https://github.com/Rudasingwa-kevin">
-    <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Software+Engineer;React+Developer;Node.js+Enthusiast;AI+Powered+Builder;Always+Learning+New+Things" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Software+Engineer;React+%7C+Node.js+Developer;Building+Modern+Web+Apps;AI+Powered+Creator;Always+Learning+Always+Building" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-Rwanda-gold?style=for-the-badge&labelColor=111111"/>
+  <img src="https://img.shields.io/badge/Focus-Web%20Development-00F7FF?style=for-the-badge&labelColor=111111"/>
+  <img src="https://img.shields.io/badge/Open%20To-Collaboration-success?style=for-the-badge&labelColor=111111"/>
 </p>
 
 ---
 
-## 🌌 About Me
+## 🚀 About Me
 
-💻 Passionate **Software Engineer** focused on building modern, responsive, and scalable web applications.  
-🚀 Strong interest in **AI tools**, productivity systems, and full-stack development.  
-🎯 Always improving my skills and creating real-world projects.  
-🌍 Based in Rwanda.  
+- 💻 Passionate Software Engineer focused on modern web development  
+- ⚛️ Strong with React, JavaScript, Tailwind CSS & Node.js  
+- 🤖 Interested in AI tools and smart solutions  
+- 📚 Always learning and improving practical skills  
+- 🌍 Based in Rwanda  
 
 ---
 
 ## ⚒️ Tech Stack
 
-<p align="left">
-
+<p align="center">
 <img src="https://skillicons.dev/icons?i=js,react,nodejs,tailwind,html,css,mysql,postgresql,git,github,vscode" />
-
 </p>
-
----
-
-## 🧠 Skills
-
-- 🤖 AI Usage & Productivity Tools  
-- ⚛️ React.js Frontend Development  
-- 🎨 Tailwind CSS Modern UI Design  
-- 🌐 JavaScript / Node.js  
-- 🗄️ SQL Databases  
-- 🔧 Git & GitHub Collaboration  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rudasingwa-kevin&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rudasingwa-kevin&theme=tokyonight&hide_border=true" height="170"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Rudasingwa-kevin&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Rudasingwa-kevin&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rudasingwa-kevin&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🚀 Current Focus
+## 🏆 Achievements
 
-- Building professional full-stack projects  
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Rudasingwa-kevin&theme=algolia&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+## 🌱 Current Focus
+
+- Building real-world full-stack projects  
 - Improving backend engineering skills  
-- Exploring AI integration in websites  
-- Open Source Contributions  
+- Learning AI integration for apps  
+- Contributing to open source  
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
-<a href="https://www.linkedin.com/in/kevin-ishimwe-ba5447404/" target="blank">
-<img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<p align="center">
+<a href="https://www.linkedin.com/in/kevin-ishimwe-ba5447404/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 </p>
 
@@ -70,10 +73,12 @@
 
 ## ⚡ Quote
 
-> "Consistency beats talent when talent doesn't stay consistent."
+<p align="center">
+<i>"Consistency creates opportunities."</i>
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rudasingwa-kevin&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=Rudasingwa-kevin&label=Profile%20Views&color=00F7FF&style=flat"/>
 </p>
