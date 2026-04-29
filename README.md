@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/ae1b468f-0902-4437-a27d-76a08c6edc21" width="300" />
+</div>
+
 <h1 align="center">Hi 👋, I'm Kevin Ishimwe</h1>
 <h3 align="center">Software Engineer | Full-Stack Developer | AI Enthusiast</h3>
 
