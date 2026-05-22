@@ -36,11 +36,21 @@
 ---
 ## 📊 GitHub Stats
 
-<p align="center">  
-  <img src="https://streak-stats.demolab.com?user=Rudasingwa-kevin&theme=tokyonight&hide_border=true" width="49%" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rudasingwa-kevin&theme=tokyonight" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rudasingwa-kevin&theme=tokyonight" />
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rudasingwa-kevin&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rudasingwa-kevin&theme=tokyonight" />
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rudasingwa-kevin&theme=tokyonight&utcOffset=2" />
+</p>
 ---
 
 ## 📈 Contribution Graph
