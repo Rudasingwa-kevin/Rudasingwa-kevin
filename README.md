@@ -42,21 +42,6 @@
 
 ---
 
-## 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rudasingwa-kevin&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Rudasingwa-kevin&theme=algolia&no-frame=true&row=1&column=6"/>
-</p>
-
----
 
 ## 🌱 Current Focus
 
