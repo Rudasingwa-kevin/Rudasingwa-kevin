@@ -34,11 +34,10 @@
 </p>
 
 ---
-## 📊 GitHub Stats
+## 📊 Weekly Development Breakdown
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Rudasingwa-kevin&theme=tokyonight&hide_border=true" />
-</p>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
