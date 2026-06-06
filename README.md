@@ -39,7 +39,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+From: 29 May 2026 - To: 05 June 2026
+
+TypeScript   1 hr 48 mins          ███████████████████████▒░   92.73 %
+Markdown     7 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.76 %
+JSON         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+Prisma       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+TSConfig     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
