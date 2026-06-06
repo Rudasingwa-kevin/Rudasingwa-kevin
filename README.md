@@ -62,6 +62,9 @@ TSConfig     0 secs                ░░░░░░░░░░░░░░░
 
 ---
 
+<p align="center"> <img src="https://streak-stats.demolab.com?user=Rudasingwa-kevin&theme=tokyonight&hide_border=true" /> </p>
+
+
 ## 🌐 Connect With Me
 
 <p align="center">
