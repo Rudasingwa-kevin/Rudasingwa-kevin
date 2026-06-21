@@ -42,24 +42,6 @@
 </p>
 
 ---
-## 📊 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-
-```txt
-From: 11 June 2026 - To: 18 June 2026
-
-JavaScript   5 hrs 6 mins          █████████████████████░░░░   84.14 %
-Bash         21 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.87 %
-Prisma       11 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
-JSON         8 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
-Markdown     5 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
-```
-
-<!--END_SECTION:waka-->
-
----
-
 
 ## 🌱 Current Focus
 
